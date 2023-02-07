@@ -1,0 +1,2 @@
+# Singapore rainfall - ARMA analysis
+ 
